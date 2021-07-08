@@ -8,3 +8,5 @@ credit card, Paypal, etc.
 email will be sent to the user for the payment received. The
 invoice will contain the amount.
 > On any page / email, only basic information is needed.
+
+*Only for Laptop/Desktop screens
